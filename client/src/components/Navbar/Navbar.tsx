@@ -34,7 +34,7 @@ export default function ButtonAppBar() {
             </Link>
           </Typography>
           <Button color="inherit" onClick={handleCLick}>
-            Login
+            Login / Signup
           </Button>
         </Toolbar>
       </AppBar>
